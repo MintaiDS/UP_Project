@@ -23,7 +23,13 @@ body {
     border: 3px solid #631878;
 	padding: 10px;
 }
-
+span {
+	color: #72BB53;
+	font-size: 10px;
+}
+span:hover {
+	font-size: 18px;
+}
 .chat > p {
 	font-size: 20px;
 	color: #631878;
