@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-*.in
-*.out
-**/build
-**/nbproject
-*.mf
-*.class
-.idea/
-*.iml
-target
-=======
 # Compiled source #
 ###################
 *.com
@@ -46,4 +35,3 @@ target
 .Trashes
 ehthumbs.db
 Thumbs.db
->>>>>>> ddfed9f8ed97aea45e2c5017961bb06e3ca997c7
